@@ -1,0 +1,95 @@
+#main-div{
+    display: flex;
+    background-color: E5E5E5;
+    margin: 0 auto;
+    padding: 0;
+    max-width: 1600px;
+    /* max-height: 800px; */
+}
+#side-content{
+    width: 50%
+}
+#navbar-logo{
+    float: left;
+    padding:0 ;
+    margin: 0;
+}
+.first-content{
+    font-family: "Poppins",sans-serif;
+    margin-left: 80px;
+    margin-top: 80px;
+    /* padding-right: 80px; */
+}
+h1{
+    margin-bottom: 2px;
+    font-size:32px;
+    font-weight: 400;
+    color: #333333;
+}
+.login-1{
+    margin-top: 0;
+    color:#666666;
+}
+#form-tag{
+    font-family: "Poppins",sans-serif;
+    margin-left: 80px;
+    color: #666666;
+    font-size: 16px;
+    font-weight: 200;
+}
+
+input{
+    margin-top: 4px;
+    width: 90%;
+    border-radius: 8px;
+    height: 50px;
+    border: #666666 1px solid;
+    margin-bottom: 30px;
+}
+span{
+    float: right;
+    margin-right: 80px;
+}
+.eye-off-image{
+    float: right;
+    margin-right: 10px;
+}
+#terms-for-password{
+    margin-top: 0;
+    
+}
+#terms-condition{
+    width: 20px;
+    margin-bottom: 0;
+    height: 20px;
+    accent-color: black;
+}
+#small-text{
+    font-family: "Poppins",sans-serif;
+    margin-top: 50px;
+    font-weight: 200;
+    color: #666666;
+    margin-left: 80px;
+    font-size: 18px;
+}
+.button{
+    width: 35%;
+    margin-left: 80px;
+    margin-top: 30px;
+    
+    font-size: 20px;
+    background-color: #949191;
+    color: #FFFFFF;
+    font-family: "Poppins",sans-serif;
+    height: 80px;
+    border-radius: 50px;
+}
+.footer{
+    font-family: "Poppins",sans-serif;
+    margin-left: 80px;
+    font-weight: 200;
+}
+#side-image{
+    width: 50%;
+    color: black
+}
