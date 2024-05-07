@@ -5,6 +5,7 @@
     padding: 0;
     max-width: 1600px;
     /* max-height: 800px; */
+    justify-content: center;
 }
 #side-content{
     width: 50%
